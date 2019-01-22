@@ -7,7 +7,7 @@ title: dl book
 
 
 ## Chapter 2: Neural network architectures
-Test
+
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
 | 1        | Banknote classification with fcNN |[nb_ch02_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_02/nb_ch02_01.ipynb) |[nb_ch02_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_02/nb_ch02_01.ipynb)|
