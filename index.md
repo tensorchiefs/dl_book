@@ -3,10 +3,11 @@ layout: default
 mathjax: true
 title: dl book
 ---
-<h3>dl book notebooks overview</h3>
+# dl book notebooks overview
 
 
 ## Chapter 2: Neural network architectures
+
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
 | 1        | Banknote classification with fcNN |[nb_ch02_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_02/nb_ch02_01.ipynb) |[nb_ch02_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_02/nb_ch02_01.ipynb)
@@ -16,6 +17,7 @@ title: dl book
 | 5        |Causal and time dilated convolutions|[nb_ch02_04](https://github.com/tensorchiefs/dl_book/blob/master/chapter_02/nb_ch02_04.ipynb) |[nb_ch02_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_02/nb_ch02_04.ipynb)
 
 ## Chapter 3: Principles of curve fitting
+
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
 | 1        |Gradient descent method for linear regression with one tunable parameter |[nb_ch03_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_03/nb_ch03_01.ipynb) |[nb_ch03_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_03/nb_ch03_01.ipynb)
