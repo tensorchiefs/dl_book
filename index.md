@@ -28,4 +28,12 @@ title: dl book
 | 6        |Linear regression with TF Eager |[nb_ch03_06](https://github.com/tensorchiefs/dl_book/blob/master/chapter_03/nb_ch03_06.ipynb) |[nb_ch03_06](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_03/nb_ch03_06.ipynb)|
 | 7        |Linear regression with Autograd |[nb_ch03_07](https://github.com/tensorchiefs/dl_book/blob/master/chapter_03/nb_ch03_07.ipynb) |[nb_ch03_07](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_03/nb_ch03_07.ipynb)|
 
+## Chapter 4: Building loss functions with the likelihood approach
+| Number  |      Topic    |      Github    |      Colab    |
+|:--------:|:--------------|:---------------|:--------------|
+| 1        |First example of the maximum likelihood principle: throwing a dice |[nb_ch04_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb) |[nb_ch04_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)|
+| 2        |Calculation of the loss function for classification |[nb_ch04_02](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_02.ipynb) |[nb_ch04_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_02.ipynb)|
+| 3        |Calculation of the loss function for regression |[nb_ch04_03](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_03.ipynb) |[nb_ch04_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_03.ipynb)|
 
+
+Calculation of the loss function for classification
