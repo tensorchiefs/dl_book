@@ -30,6 +30,7 @@ You can use the notebooks below, by clicking on the colab link or running them l
 | 7        |Linear regression with Autograd |[nb_ch03_07](https://github.com/tensorchiefs/dl_book/blob/master/chapter_03/nb_ch03_07.ipynb) |[nb_ch03_07](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_03/nb_ch03_07.ipynb)|
 
 ## Chapter 4: Building loss functions with the likelihood approach
+
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
 | 1        |First example of the maximum likelihood principle: throwing a dice |[nb_ch04_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb) |[nb_ch04_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)|
