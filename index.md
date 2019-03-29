@@ -35,6 +35,3 @@ You can use the notebooks below, by clicking on the colab link or running them l
 | 1        |First example of the maximum likelihood principle: throwing a dice |[nb_ch04_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb) |[nb_ch04_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)|
 | 2        |Calculation of the loss function for classification |[nb_ch04_02](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_02.ipynb) |[nb_ch04_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_02.ipynb)|
 | 3        |Calculation of the loss function for regression |[nb_ch04_03](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_03.ipynb) |[nb_ch04_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_03.ipynb)|
-
-
-Calculation of the loss function for classification
