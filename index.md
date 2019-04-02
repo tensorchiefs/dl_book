@@ -5,7 +5,12 @@ title: dl book
 ---
 # dl book notebooks overview
 
-You can use the notebooks below, by clicking on the colab link or running them locally on your machine. To run them locally you can either install the required software (python with tensorflow) or use the provided docker container as described here [Link will follow upon finishing the book].  
+You can use the notebooks below by clicking on the Colab Notebooks link or running them locally on your machine. 
+
+To run them locally, you can either 
+
+* install the required software (Python with TensorFlow) or 
+* use the provided docker container as described here [Link will follow upon finishing the book].  
 
 ## Chapter 2: Neural network architectures
 
