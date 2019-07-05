@@ -3,3 +3,5 @@
 .ipynb*
 
 chapter_05/logs/*
+
+*.pdf
