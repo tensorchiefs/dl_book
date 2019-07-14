@@ -86,7 +86,7 @@ df.train <- subset(df, year %in% trainID)
 df.train$year <- droplevels(df.train$year)
 df.test <- subset(df, !year %in% trainID)
 
-
+sum(df.train$wild);sum(df.test$wild)
 # model formula
 df.test$year = as.numeric(as.character(df.test$year))
 df.train$year = as.numeric(as.character(df.train$year))
@@ -96,48 +96,6 @@ write_feather(df.test, 'deer_test.feather')
 write_feather(df.train, 'deer_train.feather')
 
 
-
-#With Cycles
-if (USE_HARMONICS) {
-  rhs <- paste0("year + time + day_in_year + daytime + weekday + ",paste("tvar",1:20,sep="",collapse = "+"))
-}
-
-rhs <- paste0("year + time + day_in_year + daytime + weekday")
-
-#Original
-#rhs <- paste("year + daytime * weekday +", paste("daytime:", colnames(Xtime), "", collapse = "+"))
-
-
-
-fm <- as.formula(paste("wild ~", rhs))
-
-# # regression models
-# mNB <- glm.nb(fm, data = df.train, link = "log")
-# 
-# mP <- glm(fm, data = df.train, family = poisson(link = "log"))
-# 
-# mCp <- Coxph(fm_p1, data = df.train, order = 6,
-#              log_first = TRUE,
-#              support = c(1L, floor(quantile(df$wild_p1, .99))), 
-#              bounds = c(0.9, Inf))
-# 
-# save(mP, mNB, mCp, file = "DVC_models.rda")
-
-##########
-# Saving the data
-deer.train = as.data.frame(model.matrix(fm, data = df.train))
-deer.train$y = df.train$wild
-deer.train=deer.train[,-1] #Get rid of intercept
-write.table(deer.train, file='deer_train_small.csv', sep=',', row.names = FALSE)
-sum(deer.train$y)
-sum(deer.train[,1])
-
-deer.test = as.data.frame(model.matrix(fm, data = df.test))
-deer.test$y = df.test$wild
-deer.test=deer.test[,-1]
-write.table(deer.test, file='deer_test_small.csv', sep=',', row.names = FALSE)
-sum(deer.test$y)
-sum(deer.test[,13])
 
 
 
