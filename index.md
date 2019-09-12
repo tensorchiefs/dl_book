@@ -3,6 +3,10 @@ layout: default
 mathjax: true
 title: dl book
 ---
+# Probabalistic Deep Learning with Python
+The book (in MEAP) is availibe [https://www.manning.com/books/probabilistic-deep-learning-with-python](https://www.manning.com/books/probabilistic-deep-learning-with-python?a_aid=probabilistic_deep_learning&a_bid=78e55885)
+
+
 # dl book notebooks overview
 
 You can use the notebooks below by clicking on the Colab Notebooks link or running them locally on your machine. 
