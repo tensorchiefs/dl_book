@@ -17,7 +17,7 @@ unique(d$loss_type)
 ggplot(d) + geom_line(aes(x=epochs_all, y=loss, color=loss_type), alpha=0.8) + ylim(0,100)
 
 epochs = c(1:25, seq(25,75,4), seq(75,150,8),seq(150,1000,20),seq(1000,5000,50),seq(5000,10000,500))
-#epochs = seq(5000,10000,500)
+epochs = seq(5000,10000,500)
 print('Number of epochs to render ')
 print(length(epochs))
 library(gganimate)
@@ -43,14 +43,13 @@ make_movie = function(epochs) {
     xlab(expression(mu[a])) +
     ylab(expression(mu[b])) +
     xlim(1,1.8)+
-    theme_classic(base_size = 22) + 
-    transition_manual(epoch)   
+    theme_classic(base_size = 22)
 }
 first_frame = make_movie(1)
 first_frame
 ggsave('fit_8.rep.pdf',first_frame)
 
-left = make_movie(epochs)
+left = make_movie(epochs) + transition_manual(epoch)   
 left_gif = animate(left,nframes=last_frame)
 left_gif
 anim_save('vi_ab.gif', left_gif)

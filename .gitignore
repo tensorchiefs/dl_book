@@ -12,4 +12,4 @@ chapter_05/deer_test.feather
 
 chapter_05/deer_train.feather
 
-chapter_05/.Rhistory
+*.Rhistory
