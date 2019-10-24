@@ -13,3 +13,7 @@ chapter_05/deer_test.feather
 chapter_05/deer_train.feather
 
 *.Rhistory
+
+chapter_08/nb_ch08_01_mixture.ipynb
+
+chapter_08/test_multimodal.ipynb
