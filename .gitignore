@@ -17,3 +17,7 @@ chapter_05/deer_train.feather
 chapter_08/nb_ch08_01_mixture.ipynb
 
 chapter_08/test_multimodal.ipynb
+
+*.Rout
+
+chapter_08/.RData

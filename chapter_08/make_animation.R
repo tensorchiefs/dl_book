@@ -17,7 +17,7 @@ unique(d$loss_type)
 ggplot(d) + geom_line(aes(x=epochs_all, y=loss, color=loss_type), alpha=0.8) + ylim(0,100)
 
 epochs = c(1:25, seq(25,75,4), seq(75,150,8),seq(150,1000,20),seq(1000,5000,50),seq(5000,10000,500))
-epochs = seq(5000,10000,500)
+#epochs = seq(5000,10000,500)
 print('Number of epochs to render ')
 print(length(epochs))
 library(gganimate)
@@ -83,5 +83,7 @@ for(i in 2:(length(epochs)-3)){
 
 print("Starting to save gif")
 anim_save('vi_ab_movie_and_loss.gif', new_gif)
+#Works
+# ffmpeg -i vi_ab_movie_and_loss.gif -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" vi_ab_movie_and_loss.mp4
 #anim_save('vi_ab.mp4', new_gif) #crashes my machine
 
