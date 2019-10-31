@@ -21,3 +21,5 @@ chapter_08/test_multimodal.ipynb
 *.Rout
 
 chapter_08/.RData
+
+chapter_06/attic/*
