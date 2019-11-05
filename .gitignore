@@ -28,3 +28,7 @@ chapter_08/*.gif
 chapter_08/*.mp4
 
 movies/vi_ab_movie_and_loss.mp4
+
+chapter_08/*.hdf5
+
+chapter_08/*.csv
