@@ -76,7 +76,7 @@ To run them locally, you can either
 | 3        |Bayesian model for a coin toss |[nb_ch07_03](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb) |[nb_ch07_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb)|
 | 4        |Play with the analytical Bayes solution for linear regression|[nb_ch07_04](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb) |[nb_ch07_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb)|
 
-## Chapter 7: Bayesian neural networks
+## Chapter 8: Bayesian neural networks
 
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
