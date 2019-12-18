@@ -61,14 +61,11 @@ To run them locally, you can either
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
 | 1        |Discretized Logistic Mixture distribution |[nb_ch06_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_01.ipynb) |[nb_ch06_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_01.ipynb)|
-| 2        |Regressions on the deer data |[nb_ch06_02]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_02.ipynb) |[nb_ch06_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_02.ipynb)|
-| 3        |Getting started with flows |[nb_ch06_03]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_03.ipynb) |[nb_ch06_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_03.ipynb)|
-| 4        |Using RealNVP |[nb_ch06_04]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_04.ipynb) |[nb_ch06_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_04.ipynb)|
-| 5        |Fun with glow |[nb_ch06_05]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_05.ipynb) |[nb_ch06_05](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_05.ipynb)|
+| 2        |Regressions on the deer data |[nb_ch06_02](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_02.ipynb)| 
+|[nb_ch06_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_02.ipynb)|
+| 3        |Getting started with flows |[nb_ch06_03](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_03.ipynb) |[nb_ch06_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_03.ipynb)|
+| 4        |Using RealNVP |[nb_ch06_04](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_04.ipynb) |[nb_ch06_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_04.ipynb)|
+| 5        |Fun with glow |[nb_ch06_05](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_05.ipynb) |[nb_ch06_05](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_05.ipynb)|
 
 
 ## Chapter 7: Bayesian learning
@@ -76,21 +73,15 @@ To run them locally, you can either
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
 | 1        |Predict images with a pretrained Imagenet network |[nb_ch07_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb) |[nb_ch07_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb)|
-| 2        |Bayes Linear Regression Brute Force vs Analytical |[nb_ch07_02]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_02.ipynb) |[nb_ch07_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_02.ipynb)|
-| 3        |Bayesian model for a coin toss |[nb_ch07_03]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb) |[nb_ch07_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb)|
-| 4        |Playwith the analytical Bayes solution for linear regression|[nb_ch07_04]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb) |[nb_ch07_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb)|
+| 2        |Bayes Linear Regression Brute Force vs Analytical |[nb_ch07_02](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_02.ipynb) |[nb_ch07_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_02.ipynb)|
+| 3        |Bayesian model for a coin toss |[nb_ch07_03](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb) |[nb_ch07_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb)|
+| 4        |Playwith the analytical Bayes solution for linear regression|[nb_ch07_04](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb) |[nb_ch07_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb)|
 
 ## Chapter 7: Bayesian neural networks
 
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
 | 1        |Linear Regression the Bayesian way |[nb_ch08_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_01.ipynb) |[nb_ch08_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_01.ipynb)|
-| 2        |Dropout to fight overfitting |[nb_ch08_02]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_02.ipynb) |[nb_ch08_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_02.ipynb)|
-| 3        |Regression case study with Bayesian Neural Networks |[nb_ch08_03]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_03.ipynb) |[nb_ch08_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_03.ipynb)|
-| 4        |Classification case study with novel class |[nb_ch08_04]
-(https://github.com/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_04.ipynb) |[nb_ch08_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_04.ipynb)|
+| 2        |Dropout to fight overfitting |[nb_ch08_02](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_02.ipynb) |[nb_ch08_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_02.ipynb)|
+| 3        |Regression case study with Bayesian Neural Networks |[nb_ch08_03](https://github.com/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_03.ipynb) |[nb_ch08_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_03.ipynb)|
+| 4        |Classification case study with novel class |[nb_ch08_04](https://github.com/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_04.ipynb) |[nb_ch08_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_08/nb_ch08_04.ipynb)|
