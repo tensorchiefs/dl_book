@@ -74,7 +74,7 @@ To run them locally, you can either
 | 1        |Predict images with a pretrained Imagenet network |[nb_ch07_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb) |[nb_ch07_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb)|
 | 2        |Bayes Linear Regression Brute Force vs Analytical |[nb_ch07_02](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_02.ipynb) |[nb_ch07_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_02.ipynb)|
 | 3        |Bayesian model for a coin toss |[nb_ch07_03](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb) |[nb_ch07_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb)|
-| 4        |Playwith the analytical Bayes solution for linear regression|[nb_ch07_04](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb) |[nb_ch07_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb)|
+| 4        |Play with the analytical Bayes solution for linear regression|[nb_ch07_04](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb) |[nb_ch07_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_04.ipynb)|
 
 ## Chapter 7: Bayesian neural networks
 
