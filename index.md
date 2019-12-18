@@ -61,8 +61,7 @@ To run them locally, you can either
 | Number  |      Topic    |      Github    |      Colab    |
 |:--------:|:--------------|:---------------|:--------------|
 | 1        |Discretized Logistic Mixture distribution |[nb_ch06_01](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_01.ipynb) |[nb_ch06_01](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_01.ipynb)|
-| 2        |Regressions on the deer data |[nb_ch06_02](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_02.ipynb)| 
-|[nb_ch06_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_02.ipynb)|
+| 2        |Regressions on the deer data |[nb_ch06_02](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_02.ipynb) |[nb_ch06_02](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_02.ipynb)|
 | 3        |Getting started with flows |[nb_ch06_03](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_03.ipynb) |[nb_ch06_03](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_03.ipynb)|
 | 4        |Using RealNVP |[nb_ch06_04](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_04.ipynb) |[nb_ch06_04](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_04.ipynb)|
 | 5        |Fun with glow |[nb_ch06_05](https://github.com/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_05.ipynb) |[nb_ch06_05](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_06/nb_ch06_05.ipynb)|
