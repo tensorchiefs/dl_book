@@ -15,7 +15,7 @@ You can use the notebooks below by clicking on the Colab Notebooks link or runni
 To run them locally, you can either 
 
 * install the required software (Python with TensorFlow) or 
-* use the provided Docker container as described here [Link will follow upon finishing the book].  
+* use the provided Docker container as described in https://github.com/oduerr/dl_book_docker/blob/master/README.md  
 
 ## Chapter 2: Neural network architectures
 
